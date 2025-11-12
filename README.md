@@ -20,14 +20,20 @@ Le script Python génère automatiquement :
 ```
 Projet_5G/
 │
-├── experimentations_5G.csv # Données source
 │
-├── script_5G.py # Script principal Python
+├── PYTHON/ # Script principal Python
+│ ├── experimentations_5G.csv # Données source
+│ └── SAE15.py # Script principal Python
 │
 ├── Images/ # Dossier des Photos
 │ ├── bar_Ile-de-France.png
 │ ├── tableau_Normandie.png
 │ └── ...
+│
+│
+├── CSS/ # Dossier Css pour les pages HTML
+│ ├── Acceuil.css
+│ └── Régions.css
 │
 ├── HTML/ #Dossier des pages HTML
 │ ├── Carte.html
