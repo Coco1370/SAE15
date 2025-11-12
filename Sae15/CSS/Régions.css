@@ -1,0 +1,62 @@
+/* le corps */
+body{
+    /* initialisation de la marge (margin) et du remplissage (padding) */
+    margin : 0 ;
+    padding : 0 ;
+    /* fais de la place en bas de la page */
+    margin-bottom: 100px ;
+    /* couleur du fond mise en beige cassé */
+    background-color : #FEFEE2 ;
+    /* alignement du texte au centre */
+    text-align: center ; 
+    /* mettre en place la police "Carlito" */
+    font-family: Carlito ;
+    
+}
+
+/* Titre de la page */
+h1{
+    /* Mettre en rouge le texte */
+    color: red ;
+    /* Mettre en gras (bold), mettre en italique (italic) et souligner (underline)*/
+    font-weight: bold ;
+    font-style: italic ;
+    text-decoration: underline ;
+    /* Mettre la police en "Algerian" */
+    font-family: Algerian ;
+
+}
+
+/* Partie Introduction */
+.intro{
+    /* met en gras et en italique */
+    font-weight: bold ;
+    font-style: italic ;
+    /* fais de la place en haut et en bas */
+    margin-top: 20px ;
+}
+
+img{ 
+    width: 650px;
+    height: auto;
+}
+
+
+.legende{
+    /* met en italique */ 
+    font-style: italic ;
+    /* fais de la place en haut et en bas */ 
+    margin-top: 40px ;
+    margin-bottom: 40px ;
+    color: green ;
+}
+
+a img{
+    width: 50px ;  
+    height: 50px ; 
+
+    position: absolute;
+    top: 20px ;
+    right: 20px ; 
+}
+
