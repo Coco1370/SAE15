@@ -50,7 +50,7 @@ Projet_5G/
 
 Lance le script avec la commande :
 ```bash
-python script_5G.py
+python SAE15.PY
 ```
 Ouvre ensuite le fichier suivant dans ton navigateur :```Acceuil.html```
 
