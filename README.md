@@ -45,7 +45,7 @@ Projet_5G/
 │ ├── Acceuil.css
 │ └── Régions.css
 │
-├── HTML/ #Dossier des pages HTML
+├── HTML/ # Dossier des pages HTML
 │ ├── Carte.html
 │ ├── Ile-de-France.html
 │ ├── Normandie.html
@@ -108,27 +108,27 @@ The Python script automatically generates:
 Projet_5G/
 │
 │
-├── PYTHON/ # Script principal Python
-│ ├── experimentations_5G.csv # Données source
-│ └── SAE15.py # Script principal Python
+├── PYTHON/ # Python main script
+│ ├── experimentations_5G.csv # Source data
+│ └── SAE15.py # Python main script
 │
-├── Images/ # Dossier des Photos
+├── Images/ # Photos folder
 │ ├── bar_Ile-de-France.png
 │ ├── tableau_Normandie.png
 │ └── ...
 │
 │
-├── CSS/ # Dossier Css pour les pages HTML
+├── CSS/ # Css folder for HTML pages
 │ ├── Acceuil.css
 │ └── Régions.css
 │
-├── HTML/ #Dossier des pages HTML
+├── HTML/ # HTML pages folder
 │ ├── Carte.html
 │ ├── Ile-de-France.html
 │ ├── Normandie.html
 │ └── ...
 │
-└── README.md # Documentation du projet
+└── README.md # Project documentation
 ```
 
 ## Installation
