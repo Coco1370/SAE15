@@ -5,7 +5,9 @@
 [English Version](#-english-version)
 
 
-# Version Française
+### ————————————————————
+###   FRENCH VERSION
+### ————————————————————
 
 # Projet : Visualisation des expérimentations 5G en France
 
@@ -78,7 +80,9 @@ Le programme va automatiquement :
   - Des **graphiques et tableaux** dans `Images/`
   - Une **carte interactive** dans `HTML/`
 
-# English Version
+### ———————————————————
+###   ENGLISH VERSION
+### ———————————————————
 
 # Project: Visualization of 5G Experiments in France  
 
