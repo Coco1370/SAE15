@@ -1,12 +1,12 @@
 # README — Bilingual Version (FR + EN)
 
 ## Choisir la langue / Choose your language  
-  [Version Française](#-FRENCH-VERSION)  
+[Version Française](#-version-française)  
 [English Version](#-english-version)
 
 
 # ————————————————————
-#   FRENCH VERSION
+#   Version Française
 # ————————————————————
 
 # Projet : Visualisation des expérimentations 5G en France
@@ -81,7 +81,7 @@ Le programme va automatiquement :
   - Une **carte interactive** dans `HTML/`
 
 # ———————————————————
-#   ENGLISH VERSION
+#   English Version
 # ———————————————————
 
 # Project: Visualization of 5G Experiments in France  
