@@ -1,7 +1,7 @@
 # README — Bilingual Version (FR + EN)
 
 ## Choisir la langue / Choose your language  
-[Version Française](#-version-française)  
+  [Version Française](#-FRENCH-VERSION)  
 [English Version](#-english-version)
 
 
