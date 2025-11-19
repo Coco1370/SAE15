@@ -5,9 +5,9 @@
 [English Version](#-english-version)
 
 
-### ————————————————————
-###   FRENCH VERSION
-### ————————————————————
+# ————————————————————
+#   FRENCH VERSION
+# ————————————————————
 
 # Projet : Visualisation des expérimentations 5G en France
 
