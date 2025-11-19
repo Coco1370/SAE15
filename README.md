@@ -6,7 +6,7 @@
 
 
 # ————————————————————
-#   Version Française
+# Version Française
 # ————————————————————
 
 # Projet : Visualisation des expérimentations 5G en France
@@ -81,7 +81,7 @@ Le programme va automatiquement :
   - Une **carte interactive** dans `HTML/`
 
 # ———————————————————
-#   English Version
+# English Version
 # ———————————————————
 
 # Project: Visualization of 5G Experiments in France  
