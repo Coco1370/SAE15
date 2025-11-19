@@ -80,9 +80,9 @@ Le programme va automatiquement :
   - Des **graphiques et tableaux** dans `Images/`
   - Une **carte interactive** dans `HTML/`
 
-### ———————————————————
-###   ENGLISH VERSION
-### ———————————————————
+# ———————————————————
+#   ENGLISH VERSION
+# ———————————————————
 
 # Project: Visualization of 5G Experiments in France  
 
