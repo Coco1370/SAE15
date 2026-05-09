@@ -6,6 +6,7 @@ body{
     font-family: Carlito ;
     margin-bottom: 100px ;
 }
+
 h1{
     color: red ;
     font-weight: bold ;
@@ -14,17 +15,20 @@ h1{
     text-decoration: underline ;
 
 }
+
 .intro{
     font-weight: bold ;
     font-style: italic ;
     margin-top: 20px ;
     margin-bottom: 20px ;
 }
+
 .carte{
     font-weight: bold ;
     font-style: italic ;
     color : blue ;
 }
+
 a{
     color: #E538CE ;
     text-decoration: none ;
